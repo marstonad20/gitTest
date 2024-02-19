@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Bar");
         System.out.println("My hands are typing");
         System.out.println("words.");
+
+        System.out.println("Kermit D Fraud");
     }
 }
